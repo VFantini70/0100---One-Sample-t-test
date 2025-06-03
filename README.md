@@ -19,3 +19,13 @@ Sp = (n - 1) S2x + (m - 1)S2yn + m - 2
 
 	If the variances are not equal, then the formula would be written as such:
 T = (X - Y) - (μx - μy) S2xn + S2ym
+
+## Test Statistics and P-value Interpretation
+Once the T statistic is found, we can then compare it to the critical value derived from the t distribution. With the given alternative hypothesis, we will form a critical region. This process is illustrated in the table below:
+
+**Alernative Hypothesis** | **Rejection Region**
+--- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
+Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269
+--- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
+
+*Note: Reprinted from Tests for the equality of two variances, by National Institute of Standards and Technology (NIST), n.d. In the public domain.*
