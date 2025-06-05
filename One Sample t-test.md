@@ -1,4 +1,4 @@
-# 0100---One-Sample-t-test
+# 0102---Two-Sample-t-test
 
 
 # **Background**
